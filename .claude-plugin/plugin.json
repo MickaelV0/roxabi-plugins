@@ -1,12 +1,12 @@
 {
-  "name": "memory-audit",
+  "name": "roxabi-plugins",
   "version": "1.0.0",
-  "description": "Drain Claude Code auto-memory to zero — every entry gets resolved (fix/promote/relocate/delete) with audit logging and recurrence detection.",
+  "description": "Claude Code plugins by Roxabi — memory audit, context engineering tools, and more.",
   "author": {
     "name": "Mickael V",
     "url": "https://github.com/MickaelV0"
   },
-  "repository": "https://github.com/MickaelV0/claude-memory-audit",
+  "repository": "https://github.com/MickaelV0/roxabi-plugins",
   "license": "MIT",
   "keywords": [
     "memory",
@@ -14,6 +14,7 @@
     "cleanup",
     "auto-memory",
     "context-engineering",
-    "maintenance"
+    "maintenance",
+    "roxabi"
   ]
 }

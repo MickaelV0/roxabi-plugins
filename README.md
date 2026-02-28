@@ -1,6 +1,12 @@
-# claude-memory-audit
+# roxabi-plugins
 
-Claude Code plugin that drains auto-memory to zero. Every memory entry gets resolved — not just deleted, but moved to its proper permanent home.
+Claude Code plugins by Roxabi. Context engineering tools for teams using Claude Code.
+
+## Plugins
+
+### memory-audit
+
+Drains auto-memory to zero. Every memory entry gets resolved — not just deleted, but moved to its proper permanent home.
 
 ## Philosophy
 
